@@ -1,4 +1,4 @@
-package Sept.ex_13092024_FormattingandLiterals;
+package Sept.ex_13092024_Formatting_Literals;
 
 public class Lab015 {
     public static void main(String[] args) {

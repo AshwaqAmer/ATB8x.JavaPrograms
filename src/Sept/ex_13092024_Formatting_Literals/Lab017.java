@@ -1,4 +1,4 @@
-package Sept.ex_13092024_FormattingandLiterals;
+package Sept.ex_13092024_Formatting_Literals;
 
 public class Lab017 {
     public static void main(String[] args) {
@@ -17,7 +17,5 @@ public class Lab017 {
         System.out.printf("%d * %d = %d",num,1,num*1);
         System.out.println();
         System.out.printf("%d * %d = %d",num,2,num*2);
-        //%s
-        System.out.printf("%s"\n"%s", a1, a2);
-    }
+        }
 }
