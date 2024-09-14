@@ -7,11 +7,11 @@ output will be like this (by using the printf()
 10 × 3 = 30….
 10 × 10 = 100.
  */
-public class Task001 {
+public class Task001_Table_of_10 {
     public static void main(String[] args) {
         int num =10;
         // Table of 10
-        System.out.printf(" %d x %d = %d \n ", num, 1, num*1);
+        System.out.printf(" %d x %d = %d \n ",num, 1, num*1);
         System.out.printf("%d x %d = %d \n ", num, 2, num*2);
         System.out.printf("%d x %d = %d \n ", num, 3, num*3);
         System.out.printf("%d x %d = %d \n ", num, 4, num*4);
@@ -20,7 +20,6 @@ public class Task001 {
         System.out.printf("%d x %d = %d \n ", num, 7, num*7);
         System.out.printf("%d x %d = %d \n ", num, 8, num*8);
         System.out.printf("%d x %d = %d \n ", num, 9, num*9);
-        System.out.printf("%d x %d = %d \n ", num, 10,num*10);
-
+        System.out.printf("%d x %d = %d ",    num, 10,num*10);
     }
 }
