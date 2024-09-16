@@ -1,6 +1,6 @@
 package Sept.ex_13092024_Formatting_Literals;
 
-public class Lab019 {
+public class Lab019_Literals {
     public static void main(String[] args) {
         /* Literal are the actual values assigned to a variables.
            It can be numeric and non-numeric.

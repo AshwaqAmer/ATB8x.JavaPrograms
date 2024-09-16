@@ -1,6 +1,6 @@
 package Sept.ex_13092024_Formatting_Literals;
 
-public class Lab017 {
+public class Lab017_Formatting {
     public static void main(String[] args) {
         // Problem statement - print the table of 2
         // Formatting
