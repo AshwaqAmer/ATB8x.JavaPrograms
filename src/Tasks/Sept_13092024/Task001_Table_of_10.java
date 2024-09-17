@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks.Sept_13092024;
 /*
 Write a program to print the table of number which user will give( int num 10)
 output will be like this (by using the printf()

@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks.Sept_13092024;
 /*
 Prepare a small calculator, which supports +, - , , / and %(?) - Modulus operator
 double a = 34;
