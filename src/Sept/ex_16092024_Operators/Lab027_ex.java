@@ -1,6 +1,6 @@
 package Sept.ex_16092024_Operators;
 
-public class Lab028_ex {
+public class Lab027_ex {
     public static void main(String[] args) {
         // BIO
         int a = 12;

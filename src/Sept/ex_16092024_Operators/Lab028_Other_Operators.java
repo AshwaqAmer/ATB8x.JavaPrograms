@@ -1,6 +1,6 @@
 package Sept.ex_16092024_Operators;
 
-public class Lab029_Other_Operators {
+public class Lab028_Other_Operators {
     public static void main(String[] args) {
     /*
     g) new Operator

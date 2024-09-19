@@ -1,6 +1,6 @@
 package Sept.ex_16092024_Operators;
 
-public class Lab027_Logical_Operators {
+public class Lab026_Logical_Operators {
     public static void main(String[] args) {
     /*
     Logical operators are used to perform logical “AND”, “OR” and “NOT” operations,

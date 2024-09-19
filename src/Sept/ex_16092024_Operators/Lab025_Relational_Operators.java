@@ -1,6 +1,6 @@
 package Sept.ex_16092024_Operators;
 
-public class Lab026_Relational_Operators {
+public class Lab025_Relational_Operators {
     public static void main(String[] args) {
     /*
     Relational Operators are a bunch of binary operators used to check for relations between two operands,

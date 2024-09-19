@@ -1,4 +1,4 @@
-package Sept.ex_16092024_Operators;
+package Sept.ex_18092024_Operators;
 
 public class Lab025_Increment_Decrement_Operator {
     public static void main(String[] args) {
