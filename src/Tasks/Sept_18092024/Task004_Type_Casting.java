@@ -1,6 +1,6 @@
 package Tasks.Sept_18092024;
 
-public class task004 {
+public class Task004_Type_Casting {
     public static void main(String[] args) {
         // Implicit Widening
         int num = 50;
