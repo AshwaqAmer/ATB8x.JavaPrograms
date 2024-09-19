@@ -1,6 +1,6 @@
 package Sept.ex_18092024_Operators;
 
-public class Lab025_Increment_Decrement_Operator {
+public class Lab031_Increment_Decrement_Operator {
     public static void main(String[] args) {
     // 1. Increment(++) -> It is used to increment the value of an integer. It can be used in two separate ways:
     // a) post-increment -> It will increment the value after execution of the statements

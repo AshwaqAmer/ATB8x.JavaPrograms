@@ -1,6 +1,6 @@
 package Tasks.Sept_16092024;
 
-public class task003 {
+public class Task003 {
     public static void main(String[] args) {
     /*
     1) Difference between = and  ==?
