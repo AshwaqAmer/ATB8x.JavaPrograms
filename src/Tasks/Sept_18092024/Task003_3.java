@@ -1,6 +1,6 @@
 package Tasks.Sept_18092024;
 
-public class Task006 {
+public class Task003_3 {
     public static void main(String[] args) {
         int a = 10;
         System.out.println( --a + a++ + a--);

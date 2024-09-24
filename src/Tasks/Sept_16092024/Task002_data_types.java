@@ -1,6 +1,6 @@
 package Tasks.Sept_16092024;
 
-public class Task003 {
+public class Task002_data_types {
     public static void main(String[] args) {
     /*
     1) Difference between = and  ==?
