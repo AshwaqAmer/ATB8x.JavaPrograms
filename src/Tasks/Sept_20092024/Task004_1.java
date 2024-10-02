@@ -7,14 +7,8 @@ public class Task004_1 {
     */
     public static void main (String[] args){
         int a=10, b=20, c=45;
-        System.out.println(a);
-
-
-
-
-
-
-
+        int max_value = (a > b) ? ((a > c) ? a : c) : ((b > c) ? b : c);
+        System.out.println("The max value between three numbers is "+max_value);
     }
 }
 

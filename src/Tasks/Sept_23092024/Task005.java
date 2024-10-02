@@ -10,7 +10,7 @@ public class Task005 {
          */
         double a = 20;
         double b = 10;
-        char operator = '&';
+        char operator = '-';
         switch (operator) {
             case '+':
                 System.out.println("Addition of a & b is equal to " + (a + b));
@@ -89,11 +89,11 @@ public class Task005 {
         double Fahrenheit = 20;
         double miles;
         double Celsius;
-        String choice = "F>C";
+        String choice = "F->C";
         switch (choice) {
             case "KM->M":
                 miles = KM * 0.621371;
-                System.out.println(" kilometers to miles is equal to " + miles + "miles");
+                System.out.println("kilometers to miles is equal to " + miles + "miles");
                 break;
             case "F->C":
                 Celsius = ((Fahrenheit - 32) * 5 / 9);
