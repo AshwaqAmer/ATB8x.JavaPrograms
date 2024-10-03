@@ -10,7 +10,7 @@ public class ATBStudent {
         String Enrolled_in;
 
         ATBStudent Ashwaq = new ATBStudent();
-        Ashwaq
+
 
 
     }
