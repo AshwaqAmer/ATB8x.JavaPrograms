@@ -26,7 +26,7 @@ public class Lab078 {
     // 2.Without Parameters but With Return Type
     public static int function_type2() {
         System.out.println("2.Without Parameters but With Return Type");
-        return 65;
+        return 70;
     }
 
     // 3.With Parameters and Without Return Type
