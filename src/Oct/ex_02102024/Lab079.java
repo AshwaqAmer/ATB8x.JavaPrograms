@@ -11,7 +11,7 @@ public class Lab079 {
         // Class -> Blueprint to create something
         // Objects - Instance of the class - created from the class.
 
-        ATBStudent Ashwaq = new ATBStudent();
+        ATBStudent1 Ashwaq = new ATBStudent1();
         Ashwaq.name = "Ashwaq Amer Mohammed";
         Ashwaq.age = 65;
         Ashwaq.address = "Hyderabad";

@@ -1,6 +1,6 @@
 package Oct.ex_02102024;
 
-public class ATBStudent extends Object {
+public class ATBStudent1 extends Object {
         // C - ATBStudent
         //  A - Attribute | data members | instance variables | fields | member variables
         long phone;
